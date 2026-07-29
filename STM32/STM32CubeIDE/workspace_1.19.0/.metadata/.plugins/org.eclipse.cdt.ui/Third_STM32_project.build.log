@@ -1,0 +1,10 @@
+16:03:21 **** Incremental Build of configuration Debug for project Third_STM32_project ****
+make -j16 all 
+arm-none-eabi-size  Third_STM32_project.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16764	    104	   2056	  18924	   49ec	Third_STM32_project.elf
+Finished building: default.size.stdout
+ 
+
+16:03:21 Build Finished. 0 errors, 0 warnings. (took 267ms)
+
