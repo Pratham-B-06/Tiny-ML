@@ -11,7 +11,7 @@ label = input("Enter Activity Label (Idle/Pitch/Roll/Yaw/Shake): ")
 num_samples = int(input("Enter Number of Samples to Record: "))
 
 baudrate = 115200
-filename = "dataset.csv"
+filename = "dataset2.csv"
 
 # ==========================
 # Open Serial Port
